@@ -1,0 +1,17 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/telmedola/clone-tabnews",
+  "author": "telmedola <tel.medola@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "ˆ13.1.6",
+    "react": "ˆ18.2.0",
+    "react-dom": "ˆ18.2.0"
+  }
+}
